@@ -1,81 +1,18 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=08878a&center=true&vCenter=true&random=false&lines=Hi+There!!;+Mudasir+Here!!+%F0%9F%91%8B%F0%9F%8F%BD;" />
-</h1>
+# 💫 About Me:
+👋 Hi, I'm Mudasir Shah<br>I am a passionate Web Backend Developer and Web Penetration Tester with a knack for creating efficient, scalable, and secure web applications. My expertise lies in combining development and security to build robust systems that deliver both functionality and protection.<br><br>💻 Skills & Expertise<br>🔧 Web Backend Development<br>Languages & Frameworks: Node.js, Express.js, JavaScript, MongoDB<br>Database Development & Administration: SQL, PL/SQL, and NoSQL (MongoDB)<br>Version Control: Proficient with Git and GitHub<br>Tools: Vite, Tailwind CSS, Axios, and more<br>Focus on building responsive and modern web applications with optimized layouts and clean code.<br>🔐 Web Penetration Testing<br>Identifying and mitigating vulnerabilities in web applications.<br>Proficient in SQL Injection, Cross-Site Scripting (XSS), and other security testing techniques.<br>Experience with Kali Linux and various cybersecurity tools for penetration testing.<br>Strong foundation in information security and active learning in the domain.<br>🚀 Projects<br>Here are some of my notable projects:<br><br>Xylonet: A project developed from scratch, showcasing my backend development and system design skills.<br>SecureOut: A cybersecurity solutions startup, emphasizing secure web development and penetration testing methodologies.<br>DAG System in C++: Implemented a Directed Acyclic Graph-based system for complex computational tasks.<br>🎯 Goals<br>Advance my expertise in IDS/IPS development for detecting and preventing security breaches.<br>Continuously learn and grow in Quantum Computing and its applications in cybersecurity.<br>Stay updated with the latest trends in web development and security.<br>📫 Let's Connect<br>GitHub: Mudasir Shah<br>LinkedIn: Mudasir Shah<br>Feel free to explore my repositories and projects, and don’t hesitate to reach out if you’re interested in collaboration or discussions!
 
-<h2 align="center">
-    Web Developer & Quantum Computing Enthusiast
-</h2>
 
-<div align="center">
-    <div>
-        <a href="https://www.linkedin.com/in/mudasir-shah">
-            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="https://github.com/MudasirShah">
-            <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
-        </a>
-        <a href="https://twitter.com/MudasirShah">
-            <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter">
-        </a>
-        <a href="https://www.medium.com/@MudasirShah">
-            <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
-        </a>
-    </div>
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mudasir-shah-1b6400279) 
 
-<div align="center">
-    <h1>Tech Stack 💻</h1>
-    <div>
-        <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-        <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/react-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-    </div>
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=el-noir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=el-noir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=el-noir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-    <h1>Current Focus 🚀</h1>
-    <p>I'm currently working on web technologies and utilizing JavaScript frameworks to develop solutions for various problems. I'm also exploring quantum computing and AI, with a keen interest in learning and integrating new advancements into my projects.</p>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=el-noir&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-    <h1>GitHub Stats 📊</h1>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=MudasirShah&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MudasirShah&theme=radical&hide_border=false" alt="GitHub Streak Stats">
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudasirShah&theme=highcontrast&title_color=FF3E8A&bg_color=1C1C1C00" alt="GitHub Language Stats">
-    </div>
-</div>
-
-<div align="center">
-    <h1>✍️ Random Dev Quote</h1>
-    <div>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-    </div>
-</div>
-
-<div align="center">
-    <h1>Trophies 🏆</h1>
-    <div>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=MudasirShah&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="GitHub Trophies">
-        </a>
-    </div>
-</div>
-
-<div align="center">
-    <h1>💰 Buy Me a Coffee</h1>
-    <div>
-        <a href="https://buymeacoffee.com/MudasirShah">
-            <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-        </a>
-    </div>
-</div>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=MudasirShah&style=for-the-badge&color=orange" alt="Visit Count">
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
