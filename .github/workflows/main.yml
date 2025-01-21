@@ -37,5 +37,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          # Use a Personal Access Token instead of GITHUB_TOKEN
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          # Explicitly set the authentication token
+          GH_PAT: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
