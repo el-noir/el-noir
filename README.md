@@ -1,7 +1,10 @@
 # 💫 About Me:
 Hi, I'm Mudasir Shah 👋<br>Backend Developer & Web Penetration Tester<br>I am a backend developer specializing in JavaScript, utilizing frameworks like Express.js and Node.js, and working with MongoDB as my primary database. I have experience in designing and implementing REST APIs for scalable web applications.<br><br>Additionally, I am a web penetration tester, ensuring application security by identifying and mitigating vulnerabilities.<br><br>About Me<br>🔭 Currently working on backend development for various web applications<br>🌱 Continuously learning and improving my skills in cybersecurity and backend technologies<br>💬 Ask me about REST APIs, backend optimization, and web security<br>📫 How to reach me: [Your Email]<br>My Tech Stack<br>Backend: Node.js, Express.js, REST APIs<br>Database: MongoDB, SQL<br>Security: Web penetration testing, vulnerability assessment<br>Version Control: Git, GitHub<br>Other Tools: Docker, CI/CD<br>
+<br>
 
+<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
+</br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mudasir-shah-1b6400279) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mudasirshah9777) 
 
