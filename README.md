@@ -19,7 +19,7 @@ Hi, I'm Mudasir Shah 👋<br>Backend Developer & Web Penetration Tester<br>I am 
 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=el-noir&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=el-noir&layout=compact&theme=onedark" />
+<!--   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=el-noir&layout=compact&theme=onedark" /> -->
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=el-noir&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=el-noir&theme=onedark" />
 </div>
