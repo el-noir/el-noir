@@ -9,6 +9,12 @@ Hi, I'm Mudasir Shah 👋<br>Backend Developer & Web Penetration Tester<br>I am 
 
 <br>About Me<br>🔭 Currently working on backend development for various web applications<br>🌱 Continuously learning and improving my skills in cybersecurity and backend technologies<br>💬 Ask me about REST APIs, backend optimization, and web security<br>📫 How to reach me: [Your Email]<br>My Tech Stack<br>Backend: Node.js, Express.js, REST APIs<br>Database: MongoDB, SQL<br>Security: Web penetration testing, vulnerability assessment<br>Version Control: Git, GitHub<br>Other Tools: Docker, CI/CD<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/el-noir/el-noir/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/el-noir/el-noir/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/el-noir/el-noir/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mudasir-shah-1b6400279) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mudasirshah9777) 
