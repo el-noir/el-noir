@@ -74,7 +74,7 @@ Hi, You're not gonna like it 👋
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=el-noir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <br />
 
-### 🔝 Top Contributed Repo
+
 
 
 
