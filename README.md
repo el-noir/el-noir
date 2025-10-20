@@ -24,7 +24,7 @@ Hi, You're not gonna like it 👋
 </div>
  -->
 <div>
-  <img width="440px" src="https://el-noir3-mudasirshah434s-projects.vercel.app/api?username=el-noir&show_icons=true&theme=onedark&cache_seconds=1800">
+  <img width="440px" src="https://el-noir3.vercel.app/api?username=el-noir&show_icons=true&theme=onedark&cache_seconds=1800">
 
 
 <!-- ![Mudasir's GitHub Stats](https://el-noir2-ch66z2iy4-mudasirshah434s-projects.vercel.app/api?username=mudasirshah&show_icons=true) -->
