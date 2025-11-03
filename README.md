@@ -17,7 +17,7 @@ Hi, You're not gonna like it 👋
 # 📊 GitHub Stats:
 
 <!--<div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=el-noir&show_icons=true&theme=onedark">
+  
    <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=el-noir&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=el-noir&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=el-noir&theme=onedark" />
@@ -25,8 +25,8 @@ Hi, You're not gonna like it 👋
  -->
 <div>
   <!-- <img width="440px" src="https://el-noir3.vercel.app/api?username=el-noir&show_icons=true&theme=onedark&cache_seconds=1800"> -->
-  <img width="440px" src="https://el-noir3.vercel.app/api?username=el-noir\&include_all_commits=true">
-
+  <!-- <img width="440px" src="https://el-noir3.vercel.app/api?username=el-noir\&include_all_commits=true"> -->
+<img width="440px" src="https://github-readme-stats.vercel.app/api?username=el-noir&show_icons=true&theme=onedark">
 
 <!-- ![Mudasir's GitHub Stats](https://el-noir2-ch66z2iy4-mudasirshah434s-projects.vercel.app/api?username=mudasirshah&show_icons=true) -->
   
