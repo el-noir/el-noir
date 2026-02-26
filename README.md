@@ -33,8 +33,8 @@ Hi, You're not gonna like it 👋
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=el-noir&theme=github&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph">
   
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=el-noir&theme=onedark&cache_seconds=1800" />
-<!--  <img width="385px" src="https://el-noir3.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" />
--->
+  <img width="385px" src="https://el-noir3.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" />
+
 </div>
 
 
