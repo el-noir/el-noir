@@ -24,7 +24,7 @@ Hi, You're not gonna like it 👋
 </div>
  -->
 <div>
-  <!-- <img width="440px" src="https://el-noir3.vercel.app/api?username=el-noir&show_icons=true&theme=onedark&cache_seconds=1800"> -->
+  <img width="440px" src="https://el-noir3.vercel.app/api?username=el-noir&show_icons=true&theme=onedark&cache_seconds=1800">
   <!-- <img width="440px" src="https://el-noir3.vercel.app/api?username=el-noir\&include_all_commits=true"> -->
 <img width="440px" src="https://github-readme-stats.vercel.app/api?username=el-noir&show_icons=true&theme=onedark">
 
