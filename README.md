@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f3a5f&height=200§ion=header&text=Mudasir%20Shah&fontSize=48&fontColor=58a6ff&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20AI%20Engineer&descAlignY=58&descColor=8b949e)
 
@@ -20,7 +20,8 @@
 
 ![Repos](https://img.shields.io/badge/Repositories-90%2B-d2a8ff?style=flat-square)
 ![CTF](https://img.shields.io/badge/Black%20Hat%20MEA%202025-CTF%20Finalist-ff7b7b?style=flat-square)
-
+-->
+<!--
 ---
 
 ## Featured Projects
@@ -64,7 +65,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626cd9?style=flat-square&logo=stripe&logoColor=white)
 
-
+-->
 ![](https://github-readme-stats.shion.dev/api?username=el-noir&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-noir&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
