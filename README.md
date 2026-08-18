@@ -65,13 +65,13 @@
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626cd9?style=flat-square&logo=stripe&logoColor=white)
 
--->
+
 ![](https://github-readme-stats.shion.dev/api?username=el-noir&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-noir&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=el-noir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
-
+-->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f3a5f,100:0d1117&height=100§ion=footer)
 
 
