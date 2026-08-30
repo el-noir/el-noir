@@ -72,9 +72,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=el-noir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 -->
 
-![](https://github-readme-stats.shion.dev/api?username=el-noir&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f3a5f,100:0d1117&height=100§ion=footer)
 
+![](https://github-readme-stats.shion.dev/api?username=el-noir&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
