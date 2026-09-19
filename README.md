@@ -1,24 +1,4 @@
-### Hi.
 
-You won't find a repo here worth checking, so fuck off.
-
-I ship code for money and chase everything else for fun. Nights are for either... depends who's asking.
-
-Want the real work? Come find me:
-
-<a href="https://www.linkedin.com/in/mudasir-shah43">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-Some bitches:
-
-<p align="center">
-  <img
-    src="assets/pipeline.gif"
-    alt="CI/CD pipeline animation: checkout, install, test, build and deploy completing in turn, ending with three live endpoints"
-    width="880"
-  />
-</p>
 
 <!-- # 💫 About Me:
 
@@ -98,6 +78,14 @@ Some bitches:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f3a5f,100:0d1117&height=100§ion=footer)
 
 ![](https://github-readme-stats.shion.dev/api?username=el-noir&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+<p align="center">
+  <img
+    src="assets/pipeline.gif"
+    alt="CI/CD pipeline animation: checkout, install, test, build and deploy completing in turn, ending with three live endpoints"
+    width="880"
+  />
+</p>
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
