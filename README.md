@@ -1,3 +1,25 @@
+### Hi.
+
+You won't find a repo here worth checking, so fuck off.
+
+I ship code for money and chase everything else for fun. Nights are for either... depends who's asking.
+
+Want the real work? Come find me:
+
+<a href="https://www.linkedin.com/in/mudasir-shah43">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+Some bitches:
+
+<p align="center">
+  <img
+    src="assets/pipeline.gif"
+    alt="CI/CD pipeline animation: checkout, install, test, build and deploy completing in turn, ending with three live endpoints"
+    width="880"
+  />
+</p>
+
 <!-- # 💫 About Me:
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f3a5f&height=200§ion=header&text=Mudasir%20Shah&fontSize=48&fontColor=58a6ff&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20AI%20Engineer&descAlignY=58&descColor=8b949e)
