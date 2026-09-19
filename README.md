@@ -74,21 +74,34 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=el-noir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 -->
 
-
+<!--
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f3a5f,100:0d1117&height=100§ion=footer)
 
+<!--
 ![](https://github-readme-stats.shion.dev/api?username=el-noir&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+-->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f3a5f,100:0d1117&height=100§ion=footer)
 
-<p align="center">
+### Hi,
+
+You won't find a repo here worth checking.
+
+I ship code for money. Nights are for either... depends who's asking.
+
+Want the real work? Come find me: &nbsp; </b> <a href="https://www.linkedin.com/in/mudasir-shah43/" target="_blank">linkedin.com/in/mudasir-shah43</a>
+
+
+<!--
+
   <img
     src="pipeline.gif"
     alt="CI/CD pipeline animation: checkout, install, test, build and deploy completing in turn, ending with three live endpoints"
     width="880"
   />
-</p>
-
+<!--
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
-
+-->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/el-noir/el-noir/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/el-noir/el-noir/output/github-contribution-grid-snake.svg">
@@ -96,10 +109,11 @@
 </picture>
 
 
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mudasir-shah-1b6400279) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mudasirshah9777) 
 
-
+-->
 <!-- # 📊 GitHub Stats:
 
 
