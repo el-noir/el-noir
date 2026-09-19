@@ -81,7 +81,7 @@
 
 <p align="center">
   <img
-    src="assets/pipeline.gif"
+    src="pipeline.gif"
     alt="CI/CD pipeline animation: checkout, install, test, build and deploy completing in turn, ending with three live endpoints"
     width="880"
   />
