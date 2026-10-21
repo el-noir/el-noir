@@ -90,7 +90,7 @@ I ship code for money. Nights are for either... depends who's asking.
 
 Want the real work? Come find me: &nbsp; </b> <a href="https://www.linkedin.com/in/mudasir-shah43/" target="_blank">linkedin.com/in/mudasir-shah43</a>
 
-
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=el-noir&theme=pine-tree)
 <!--
 
   <img
